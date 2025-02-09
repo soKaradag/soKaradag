@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Swift with SwiftUI and UIKit.
 - 📫 How to reach me: sok.karadag@gmail.com
 <!--
 **soKaradag/soKaradag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
